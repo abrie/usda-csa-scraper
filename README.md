@@ -1,6 +1,6 @@
 ## USDA Market Scraper
 
-This tool scrapes the USDA [Community Supported Agriculture] database of [farmer's markets](https://search.ams.usda.gov/farmersmarkets/) and [on-farm markets](https://search.ams.usda.gov/onfarmmarkets/). The results are merged into either CSV or JSON.
+This tool scrapes the USDA Community Supported Agriculture database of [farmer's markets](https://search.ams.usda.gov/farmersmarkets/) and [on-farm markets](https://search.ams.usda.gov/onfarmmarkets/). The results are merged into either CSV or JSON.
 
 Pre-scraped copies of the data are [available here](https://abrie.github.io/usda-csa-scraper).
 
