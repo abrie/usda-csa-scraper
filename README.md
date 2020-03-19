@@ -13,4 +13,4 @@ jq, yarn, python3, curl, make
 - `source bin/activate` : Activate python3 virtual environment.
 - `yarn install` : Install dependencies.
 - `make all`: Scrape, process, and merge.
-- Results are stored in `out/merged/merged.csv` and/or `out/merged.json`
+- Results are stored in `out/merged/merged.csv` and/or `out/merged/merged.json`
